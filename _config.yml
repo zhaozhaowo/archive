@@ -9,12 +9,12 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-#url: https://collectionbuilder.github.io 
+url: https://zhaozhaowo.github.io/archive/
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-#baseurl: /collectionbuilder-gh 
+baseurl: /archive
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
+source-code: https://github.com/zhaozhaowo/archive/
 
 ##########
 # SITE SETTINGS
@@ -43,9 +43,9 @@ metadata-csv:
 # Site/Organization Branding 
 # 
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
- organization-name: "Zhao Zhao Wo"
+# organization-name: "Zhao Zhao Wo"
 # organization-link: https://cdil.lib.uidaho.edu/
- organization-logo-banner: https://zhaozhaowo.github.io/archive/assets/img/zhaozhaowologo.jpg
+# organization-logo-banner: https://zhaozhaowo.github.io/archive/assets/img/zhaozhaowologo.jpg
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########
