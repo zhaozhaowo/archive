@@ -22,10 +22,10 @@ source-code: https://github.com/zhaozhaowo/archive/
 # title of site appears in banner
 title: Zhao Zhao Wo
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a demo for the Zhao Zhao Wo archive
+tagline: a Chinese adoptee photo archive project
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Zhao Zhao Wo is a digital archive for images of people and scenes from various localities across China collected by Chinese adoptees from when they were adopted from China. It's purpose is to allow Chinese adoptees by locality and chronology."
+description: "Zhao Zhao Wo is a digital archive for images of people and scenes from various localities across China collected by Chinese adoptees. It's purpose is to allow Chinese adoptees to find each other by locality and chronology."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Zhao Zhao Wo Archive Team
 
@@ -37,7 +37,7 @@ author: Zhao Zhao Wo Archive Team
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vSn7AA-cbsXT3_nNUGftc1ab-CKXOJHMQCIENeR9NHElbyI9_qA99o0-HNZdG04v-M2_N21bUe_krQQ/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
-metadata-csv: 
+metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vSApRT0RtgegEovNRaqBtbGjUSTMdELbMzZP8fC1fCj2SwxjoNX439PZ7tRtxKsWQ/pubhtml
 
 ##########
 # Site/Organization Branding 
@@ -46,7 +46,7 @@ metadata-csv:
 organization-name: "Zhao Zhao Wo"
 # organization-link: https://cdil.lib.uidaho.edu/
 organization-logo-banner: https://zhaozhaowo.github.io/archive/assets/img/zhaozhaowologo.jpg
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-logo-nav: https://zhaozhaowo.github.io/archive/assets/img/ZZW_logo_002.jpg
 
 ##########
 # ROBOTS EXCLUDE
