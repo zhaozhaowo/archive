@@ -9,10 +9,10 @@ layout: page
 
 {{ content }}
 
-{%- if page.cloud-fields == "site.data.theme.subjects-fields" -%}
-    {% assign fields = site.data.theme.subjects-fields %}
-    {% assign min = site.data.theme.subjects-min | default: 1 %}
-    {% assign stopwords = site.data.theme.subjects-stopwords %}
+{%- if page.cloud-fields == "site.data.theme.tags-fields" -%}
+    {% assign fields = site.data.theme.tags-fields %}
+    {% assign min = site.data.theme.tags-min | default: 1 %}
+    {% assign stopwords = site.data.theme.tags-stopwords %}
 {%- elsif page.cloud-fields == "site.data.theme.locations-fields" -%}
     {% assign fields = site.data.theme.locations-fields %}
     {% assign min = site.data.theme.locations-min | default: 1 %}
