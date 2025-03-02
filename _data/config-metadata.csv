@@ -1,17 +1,17 @@
 field,display_name,browse_link,external_link
 title,Title,,
 creator,Creator,,
-contributor,Contributor,
-date,Date Created,
-description,Description,
-tags,Tags,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
+contributor,Contributor,,
+date,Date Created,,
+description,Description,,
+tags,Tags,true,
+location,Location,true,
+latitude,Latitude,,
+longitude,Longitude,,
+source,Source,,
 identifier,Source Identifier,,
-publisher,Publisher
-type,Type,
-format,Format,
-rights,Rights,
+publisher,Publisher,,
+type,Type,,
+format,Format,,
+rights,Rights,,
 rightsstatement,Rights Statement,,true
