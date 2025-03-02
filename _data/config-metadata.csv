@@ -12,5 +12,6 @@ source,Source,,
 identifier,Source Identifier,,
 type,Type,,
 format,Format,,
+size,Size,,
 rights,Rights,,
 rightsstatement,Rights Statement,,true
