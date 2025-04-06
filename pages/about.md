@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://zhaozhaowo.github.io/archive/assets/img/ZZW_logo_001.jpg" %}
 
-## About CollectionBuilder-Sheets
+## About Zhao Zhao Wo 找找我
 
 This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
 
