@@ -12,6 +12,12 @@ credits: true
 
 ## About Zhao Zhao Wo 找找我
 
+Zhao Zhao Wo is an international adoptee-led grassroots initiative seeking to crowdsource, preserve, and share digitized photos of our early lives in China from roughly 1990 onwards.
+ 
+We are collecting photographs of Social Welfare Institutes, orphanages, foster families, and adoption groups with the aim of connecting adoptees who unknowingly crossed paths and providing adoptees with the possibility of locating previously unknown photos of ourselves. By compiling our photos based on location and viewing these images together, we can better visualize our social and built surroundings. Photos from return visits further complete the picture.
+
+As our photos from China gather dust in boxes and albums tucked away, we encourage Chinese adoptees to digitalize these artifacts. In so doing, we can engage with and save these important visual records of our own personal histories while also collaboratively constructing a community archive of our diaspora's origins.
+
 This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
 
 Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
