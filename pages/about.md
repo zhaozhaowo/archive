@@ -18,7 +18,7 @@ We are collecting photographs of Social Welfare Institutes, orphanages, foster f
 
 As our photos from China gather dust in boxes and albums tucked away, we encourage Chinese adoptees to digitalize these artifacts. In so doing, we can engage with and save these important visual records of our own personal histories while also collaboratively constructing a community archive of our diaspora's origins.
 
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
+This site is a protoype and prooof of concept for the archive project. It is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
 
 Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
 This enables active collaboration to prototype collections with minimal set up.
