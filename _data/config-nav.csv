@@ -2,8 +2,8 @@ display_name,stub,dropdown_parent
 Home,/,
 About,/about.html,
 Browse,,
-Locations,/locations.html, Browse
-Tags,/tags.html, Browse
+Locations,/locations.html,Browse
+Tags,/tags.html,Browse
 All Items,/browse.html,Browse
 Map,/map.html,
 Timeline,/timeline.html,
