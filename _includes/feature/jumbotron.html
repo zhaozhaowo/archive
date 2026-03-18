@@ -52,7 +52,8 @@
     .jumbo-tagline { font-size:.85em; }
 }
 </style>
-<div class="jumbotron feature px-0 border" id="{{ jumbo_div_id }}">
+
+<div class="jumbotron feature px-0 border visually-hidden" id="{{ jumbo_div_id }}">
     <div class="jumbo-title-box">
         {% unless include.heading == false and include.text == false %}
         <div class="p-2 text-center text-white">
@@ -61,6 +62,8 @@
         {% endunless %}
     </div>
 </div>
+
+
 {% if functionName != '' %}
 <script> 
 // set up jumbotron image

@@ -75,12 +75,17 @@
     line-height: 1.5em; 
     z-index: 10;
 }
+
 /* creating a narrow text column */ 
 .about-contents > {
     h2 {
         font-weight: bold;
-        padding-top: 100px;
-        border-top: 1px dotted black;
+        padding-top: 50px;
+        border-top: 0.5px solid black;
+
+        &:first-of-type {
+            border-top: none;
+        }
     }
     
     h1, h2, h3, h4, h5, h6 {
