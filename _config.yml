@@ -62,7 +62,7 @@ organization-logo-banner: https://zhaozhaowo.github.io/archive/assets/img/ZZW_lo
 # (this is done automatically by gh-pages build)
 #
 # dev mode turns on ability to change metadata
-development-mode: true
+development-mode: false
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
